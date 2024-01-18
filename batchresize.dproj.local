@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009/06/22 15:56:46.703.pas,C:\Documents and Settings\CDERENNE\Mes documents\RAD Studio\Projets\Unit1.pas=C:\Documents and Settings\CDERENNE\Mes documents\RAD Studio\Projets\ImageResize\batch\Unit1.pas</Transaction>
+    <Transaction>2009/06/22 15:56:46.718.dfm,C:\Documents and Settings\CDERENNE\Mes documents\RAD Studio\Projets\Unit1.dfm=C:\Documents and Settings\CDERENNE\Mes documents\RAD Studio\Projets\ImageResize\batch\Unit1.dfm</Transaction>
+    <Transaction>2009/06/22 15:56:55.781.dproj,C:\Documents and Settings\CDERENNE\Mes documents\RAD Studio\Projets\Project1.dproj=C:\Documents and Settings\CDERENNE\Mes documents\RAD Studio\Projets\ImageResize\batch\batchresize.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
